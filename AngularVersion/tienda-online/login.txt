@@ -1,0 +1,3 @@
+Para validar el login las credenciales validas son:
+          # Email: usuario.tienda@mail.com
+          # Password: 123456
